@@ -15,11 +15,11 @@
 	<h2></h2>
 	<hr size="2" width="100%" color="red">
 	<marquee><u1>
-		<li><img src="photo1.jpg"></li>
-		<li><img src="photo2.jpg"></li>
-		<li><img src="photo3.jpg"></li>
-		<li><img src="photo4.jpg"></li>
-		<li><img src="photo5.jpg"></li>
+		<li><img src="https://github.com/hongwu1/hongwu1/blob/main/Git/photo1.jpg"></li>
+		<li><img src="https://github.com/hongwu1/hongwu1/blob/main/Git/photo2.jpg"></li>
+		<li><img src="https://github.com/hongwu1/hongwu1/blob/main/Git/photo3.jpg"></li>
+		<li><img src="https://github.com/hongwu1/hongwu1/blob/main/Git/photo4.jpg"></li>
+		<li><img src="https://github.com/hongwu1/hongwu1/blob/main/Git/photo5.jpg"></li>
 
 	</u1></marquee>
 	<hr size="2" width="100%" color="red">
